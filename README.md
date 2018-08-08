@@ -1,4 +1,4 @@
-sunshine
-========
+Project Sunshine
+-----------------------------------
 
-Sunshine project created whilst taking the Udacity course Developing Android Apps: Android Fundamentals.
+Android application that shows the weather and forecast details for the user's preferred location.
